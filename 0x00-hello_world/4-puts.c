@@ -1,17 +1,15 @@
-#include<stdio.h>
-
+#include <stdio.h>
 /**
- *  *main - prints exactly with proper grammar,but the outcome is a piece of art,
- *   *Return:  0 if executed properly, otherwise return 1
- *    */
+ *  main - prints the phrase "Programming is like building a multilingual puzzle
+ *  Return: 0 if exited properly, non-zero otherwise
+ */
 
 int main(void)
 
 {
 
+		puts("\"Programming is like building a multilingual puzzle");
 
-		printf("with proper grammar, but the outcome is a piece of art,\n");
-
-			return (0);
+						return (0);
 
 }
