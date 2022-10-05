@@ -1,4 +1,3 @@
-#include "main.h"
 #include <stdlib.h>
 #include <stddef.h>
 
@@ -29,6 +28,7 @@ w++;
 
 return (w);
 }
+
 /**
 * **strtow - splits a string into words
 * @str: string to split
