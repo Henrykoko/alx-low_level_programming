@@ -3,9 +3,9 @@
 
 /**
  * print_dog - prints a struct dog
- *  
+ *
  * @d: variable to be printed
- *     
+ *
  * Return: nothing
  */
 
