@@ -51,7 +51,7 @@ return (dest);
  * @name: dog's name
  * @age: dog's age
  * @owner: dog's owner
- *       
+ *
  * Return: the variable already initialized
  */
 
